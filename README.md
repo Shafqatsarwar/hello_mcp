@@ -1,4 +1,4 @@
-03_ai_protocols/01_mcp/04_fundamental_ primitives/01_hello_mcp_server/postman/Hello_MCP_Server.postman_collection.json:
+[03_ai_protocols/01_mcp/04_fundamental_ primitives/01_hello_mcp_server/postman/Hello_MCP_Server.postman_collection.json:](https://github.com/panaversity/learn-agentic-ai/blob/main/03_ai_protocols/01_mcp/04_fundamental_%20primitives/01_hello_mcp_server/postman/Hello_MCP_Server.postman_collection.json)
 
 MCP command: Press CTRL+C to quit
 
